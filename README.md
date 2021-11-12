@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on autonomous underwater vehicle
+- 🌱 I’m currently learning life
+- 💬 Ask me about robotics
+- 📫 How to reach me: furkandursnn@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Furkan-Dursun&label=Profile%20views&color=0e75b6&style=flat" alt="Furkan-Dursun" /> </p>
 
@@ -11,18 +15,7 @@
 
 <p align="center">
 <img align="" height='150px' src="https://github-profile-trophy.vercel.app/?username=Furkan-Dursun&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy" alt="Furkan-Dursun" />
-</p>
-
-
-<h2><b>💻 Tech Stack</b></h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/javascript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/>
-  <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/git%20&%20github-FF9800.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
-</p>
- 
+</p> 
 
 ![](https://activity-graph.herokuapp.com/graph?username=Furkan-Dursun&theme=react-dark&area=true)
 
