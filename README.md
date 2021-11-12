@@ -10,13 +10,17 @@
 <br>
 
 <p align="center">
-<img align="" height='150px' src="https://github-profile-trophy.vercel.app/?username=Furkan-Dursun&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy" alt="Furkan-Dursun" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan-Dursun&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+<img align="" height='150px' src="https://github-profile-trophy.vercel.app/?username=Furkan-Dursun&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy" alt="Furkan-Dursun" />
 </p>
 
 
-<h2> 🛠 &nbsp;My Tech Stack</h2>
-
- <a href="https://www.python.org" target="_blank"> <img src="images/python.png" alt="python" width="30" height="30"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css3" width="30" height="30"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="images/kali.png" alt="linux" width="30" height="30"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a><a href="https://unity.com/" target="_blank"> <img src="images/unity.png" alt="unity" width="30" height="30"/> </a> 
+<h2> 🛠 &nbsp;Languages and tools:</h2>
+![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)) 
+![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
+![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
+![github](https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge) 
+ 
 
 ![](https://activity-graph.herokuapp.com/graph?username=Furkan-Dursun&theme=react-dark&area=true)
 
