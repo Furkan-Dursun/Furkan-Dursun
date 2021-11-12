@@ -14,7 +14,6 @@
 </p>
 
 
-<h2> 🛠 &nbsp;Languages and tools:</h2>
 #### Languages and tools:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
