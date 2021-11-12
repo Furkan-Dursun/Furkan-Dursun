@@ -9,7 +9,6 @@
 </p>
 <br>
 
-<a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Furkan-Dursun&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
