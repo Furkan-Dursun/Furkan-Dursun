@@ -5,7 +5,7 @@
 ### My Github Statistics
 
 <p align="center">
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=Furkan-Dursun&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Furkan-Dursun" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan-Dursunk&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=Furkan-Dursun&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Furkan-Dursun" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan-Dursun&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
 <br>
 
