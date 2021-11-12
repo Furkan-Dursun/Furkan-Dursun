@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/{Furkan-Dursun}/count.svg)
+
+![](https://activity-graph.herokuapp.com/graph?username=Furkan-Dursun&theme=react-dark&area=true)
+
 <!--
 **Furkan-Dursun/Furkan-Dursun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
