@@ -13,9 +13,13 @@
 </p>
 <br>
 
+### My Trophies
+
 <p align="center">
 <img align="" height='150px' src="https://github-profile-trophy.vercel.app/?username=Furkan-Dursun&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy" alt="Furkan-Dursun" />
 </p> 
+
+### My Contribution Graph
 
 ![](https://activity-graph.herokuapp.com/graph?username=Furkan-Dursun&theme=react-dark&area=true)
 
