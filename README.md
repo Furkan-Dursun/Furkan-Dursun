@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/{Furkan-Dursun}/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Furkan-Dursun&label=Profile%20views&color=0e75b6&style=flat" alt="Furkan-Dursun" /> </p>
 
 ### My Github Statistics
 
@@ -14,12 +14,14 @@
 </p>
 
 
-#### Languages and tools:
-![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
-![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
-![github](https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge) 
+<h2><b>💻 Tech Stack</b></h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/javascript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/>
+  <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/git%20&%20github-FF9800.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
+</p>
  
 
 ![](https://activity-graph.herokuapp.com/graph?username=Furkan-Dursun&theme=react-dark&area=true)
